@@ -3,8 +3,7 @@
 Created: September 19, 2022 11:32 AM
 Tags: ML System Design
 
-
-[Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
+Reference: [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
 
 ### Reactive Systems
 
